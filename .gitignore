@@ -1,5 +1,4 @@
 data/
 config.py
 .ipynb_checkpoints/
-.DS_store
-.gitignore
+.DS_Store
